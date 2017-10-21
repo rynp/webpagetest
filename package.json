@@ -1,0 +1,8 @@
+{
+	"name": "Ryan-WebPageTest"
+	"version": "1.0.0",
+	"dependencies": {
+    		"webpagetest": "^0.3.6",
+  	}
+}
+
